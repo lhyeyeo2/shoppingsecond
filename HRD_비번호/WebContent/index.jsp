@@ -25,6 +25,8 @@
 	</section>
 	<footer>HRDKOREA Copyright&copy;2015 All right reserved. Human
 		Resource Development Service of Korea</footer>
+		
+		동해물과 백두산이 마르고 닳도록
 </body>
 </html>
 
